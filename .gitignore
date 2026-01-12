@@ -1,3 +1,6 @@
-# Compilation outputs
-main
-*.o
+# Python
+__pycache__/
+*.py[cod]
+*&.py.class
+venv/
+.env
